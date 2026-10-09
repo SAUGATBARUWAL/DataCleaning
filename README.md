@@ -1,0 +1,1 @@
+This project contains my machine learning practice and experiments, including data preprocessing, exploratory data analysis, feature engineering, statistical testing, visualization, and preparing datasets for machine learning models.
